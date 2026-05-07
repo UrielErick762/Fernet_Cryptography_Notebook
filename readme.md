@@ -1,1 +1,3 @@
+Este notebook foi desenvolvido com o objetivo de aprofundar os estudos em criptografia utilizando Python no ambiente Google Colab. O projeto aborda conceitos fundamentais de segurança da informação, manipulação de dados em bytes, processos de criptografia e descriptografia, além da utilização de bibliotecas voltadas para proteção de dados.
 
+Durante o desenvolvimento, foram realizados testes práticos envolvendo transformação de mensagens em bytes, geração de chaves criptográficas, aplicação de algoritmos de criptografia e validação dos dados criptografados. O notebook serve como um ambiente de aprendizado e experimentação para compreender como técnicas criptográficas são implementadas na prática.
